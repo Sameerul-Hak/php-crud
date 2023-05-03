@@ -53,7 +53,7 @@
                                     <td><?php echo $phone   ?></td>
 
                                     <td>
-                                        <button class="btn btn-success"><a href="edit.php?edit=<?php echo $uid ?>" class='text-light'>Edit</a></button> $nbsp
+                                        <button class="btn btn-success"><a href="edit.php?edit=<?php echo $uid ?>" class='text-light'>Edit</a></button> 
                                         <button class="btn btn-danger"><a href="delete.php?delete=<?php echo $uid ?>" class='text-light'>Delete</a></button>
 
                                     </td>
